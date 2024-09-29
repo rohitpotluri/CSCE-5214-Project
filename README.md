@@ -21,6 +21,7 @@ This project utilizes a Convolutional Neural Network (CNN) to detect metastatic 
 ## Running the application:
 
 pip install Flask tensorflow numpy Pillow
+
 python3 app.py
 
 Then in your browser navigate to:
